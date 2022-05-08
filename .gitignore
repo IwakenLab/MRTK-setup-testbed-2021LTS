@@ -63,3 +63,7 @@ crashlytics-build.properties
 
 
 .idea/
+
+Assets/WSATestCertificate.pfx
+
+Assets/WSATestCertificate.pfx.meta
